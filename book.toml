@@ -1,0 +1,6 @@
+[book]
+authors = ["ElectronicPanopticon"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Rust for Failures"
