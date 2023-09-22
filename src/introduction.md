@@ -63,16 +63,36 @@ This is what is generally called Test Driven Development. Personally, I prefer t
 Now, here's the thing... in fact, this thing is the secret to life. There are two critical things that you need to do
 in order to profit off of failing:
 
-* Fail as fast as you can. 
-* Learn from your failures.
+* Fail as fast as you can
+* Learn from your failures
 
-## Fail as fast as you can.
+## Fail as fast as you can
 
-You will fail. Every system fails. What matters is when. You can fail when you decide to postpone a launch of your 
+You will fail. Every system fails. The critical thing is when. You can fail when you decide to postpone a launch of your 
 fancy spacecraft because your engineers worn you that the heat shields on your rockets have this nasty habit of falling
 off, OR you can decide to ignore the big brains on your staff, and go ahead with the launch only for most children in
 your country watch as your rocket carrying the first teacher in space explodes live on national television.
 Lesson learned, one way or the other.
+
+Typically, the cause of these epic fails is some stuffed shirt thinking that they know better than all those loser 
+scientists on things like designing a submarine to go to the bottom of the ocean. So kids, if you're going to fuck 
+around, try to find out as soon as you can; not 10,000 feet underwater. 
+
+## Learn from your failures
+
+Every failure is, potentially, a gift. Potentially, because you have to take the time to actually learn from your
+mistake. Not taking the time is one of the surest ways to compound the failure with more fails. 
+
+One of the most toxic environments that I look out for professionally is what I call blame cultures. For example: 
+there's this company that has for many years had a very thriving business model that virtually prints money. Slowly, 
+over time, their market share has been eroding by competition not burdened by their antiquated infrastructure. 
+
+In order to encourage quality in their software, they instituted an interesting bonus structure for their developers:
+The fewer defects your team had, the higher your bonus would be. Strangely enough, rather than improving the quality
+of their systems, the company had created a financial incentive for everyone to simply downplay and ignore problems.
+Surprise, surprise, their systems are a jumbled rat's nest of intertwined systems, where the more they try to improve
+them, the worst they get. (_This is a commonplace situation._)  
+
 
 
 
